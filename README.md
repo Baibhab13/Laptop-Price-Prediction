@@ -1,9 +1,6 @@
-Sure! Here's a sample README for a laptop price prediction project:
+# Laptop Price Prediction
 
 ---![image](https://github.com/user-attachments/assets/90a97606-fb64-4731-adea-11347432e2c9)
-
-
-# Laptop Price Prediction
 
 ## Project Overview
 
